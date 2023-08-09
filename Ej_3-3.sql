@@ -1,3 +1,7 @@
+-- PARA ESTE EJERCICIO APRENDI BASICO SQL, JOINS AGGREGATIONS Y ALGO DE SUBQUERIES, 
+-- IGUALMENTE ME AYUDE CON LAS RESPUESTAS YA QUE NO ME DIO EL TIEMPO DE INTEGRAR 
+-- EL CONOCIMIENTO ADQUIRIDO
+
 -- uso el hacker de la subquerie q ya esta filtrado por max score en su desafios
 SELECT sub.hacker_id, h.name, SUM(sub.max_score) AS total_score
 -- En la subquerie consigo el maximo por desafio por hacker que uso como sub.

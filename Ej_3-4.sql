@@ -1,3 +1,6 @@
+--  PARA ESTE EJERCICIO APRENDI BASICO SQL, JOINS AGGREGATIONS Y ALGO DE SUBQUERIES, 
+-- EL CONOCIMIENTO ADQUIRIDO ME PERMITIO REALIZAR CORRECTAMENTE EL EJERCICIO 
+
 -- selecciono los dos columnas q deseo
 SELECT s.hacker_id, h.name
 -- tomo la tabla mas importante a mi parecer y las uno a todas para poder juntar informaciones
